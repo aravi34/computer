@@ -1,0 +1,5 @@
+
+interface Software {
+	void softwareResources();
+
+}
